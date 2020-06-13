@@ -1,5 +1,7 @@
 package site.xbk2000.eduadmin.entity.grade;
 
+import lombok.Data;
+import lombok.NoArgsConstructor;
 import org.springframework.stereotype.Component;
 
 /**
@@ -7,5 +9,42 @@ import org.springframework.stereotype.Component;
  * @author xbk
  */
 @Component
+@Data
+@NoArgsConstructor
 public class Grades {
+
+    /**
+     * 学生id
+     * */
+    private int sid;
+
+    /**
+     * 教师id
+     * */
+    private int tid;
+
+    /**
+     * 课程id
+     * */
+    private int lid;
+
+    /**
+     * 课程类别id
+     * */
+    private int cid;
+
+    /**
+     * 分数
+     * */
+    private int score;
+
+    /**
+     * 是否合格
+     * */
+    private int passOrNot;
+
+    /**
+     * 是否是重修
+     * */
+    private int retakeOrNot;
 }

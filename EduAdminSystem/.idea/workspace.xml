@@ -3,6 +3,20 @@
   <component name="ChangeListManager">
     <list default="true" id="8f619844-f638-49cd-999a-c24b90ac30ab" name="Default Changelist" comment="">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/site/xbk2000/eduadmin/entity/choice/Choices.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/site/xbk2000/eduadmin/entity/choice/Choices.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/site/xbk2000/eduadmin/entity/exam/Exams.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/site/xbk2000/eduadmin/entity/exam/Exams.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/site/xbk2000/eduadmin/entity/exam/Reexams.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/site/xbk2000/eduadmin/entity/exam/Reexams.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/site/xbk2000/eduadmin/entity/grade/Grades.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/site/xbk2000/eduadmin/entity/grade/Grades.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/site/xbk2000/eduadmin/entity/lesson/LessonCategories.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/site/xbk2000/eduadmin/entity/lesson/LessonCategories.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/site/xbk2000/eduadmin/entity/lesson/Lessons.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/site/xbk2000/eduadmin/entity/lesson/Lessons.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/site/xbk2000/eduadmin/entity/lesson/LessonsDetails.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/site/xbk2000/eduadmin/entity/lesson/LessonsDetails.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/site/xbk2000/eduadmin/entity/lesson/TeachersLessons.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/site/xbk2000/eduadmin/entity/lesson/TeachersLessons.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/site/xbk2000/eduadmin/entity/people/Institutes.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/site/xbk2000/eduadmin/entity/people/Institutes.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/site/xbk2000/eduadmin/entity/people/Roles.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/site/xbk2000/eduadmin/entity/people/Roles.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/site/xbk2000/eduadmin/entity/people/RolesUsers.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/site/xbk2000/eduadmin/entity/people/RolesUsers.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/site/xbk2000/eduadmin/entity/people/Users.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/site/xbk2000/eduadmin/entity/people/Users.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/site/xbk2000/eduadmin/entity/scholarship/Applications.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/site/xbk2000/eduadmin/entity/scholarship/Applications.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/site/xbk2000/eduadmin/entity/scholarship/Scholarships.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/site/xbk2000/eduadmin/entity/scholarship/Scholarships.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/../数据库设计.md" beforeDir="false" afterPath="$PROJECT_DIR$/../数据库设计.md" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -71,6 +85,8 @@
       <workItem from="1591869086784" duration="68000" />
       <workItem from="1591869338891" duration="2982000" />
       <workItem from="1591931114822" duration="124000" />
+      <workItem from="1592013768972" duration="1667000" />
+      <workItem from="1592015791381" duration="1336000" />
     </task>
     <servers />
   </component>
@@ -78,10 +94,10 @@
     <option name="version" value="2" />
   </component>
   <component name="WindowStateProjectService">
-    <state x="743" y="311" width="424" height="483" key="FileChooserDialogImpl" timestamp="1591869152150">
+    <state x="743" y="311" width="424" height="483" key="FileChooserDialogImpl" timestamp="1592015435253">
       <screen x="0" y="27" width="1920" height="1053" />
     </state>
-    <state x="743" y="311" width="424" height="483" key="FileChooserDialogImpl/0.27.1920.1053@0.27.1920.1053" timestamp="1591869152150" />
+    <state x="743" y="311" width="424" height="483" key="FileChooserDialogImpl/0.27.1920.1053@0.27.1920.1053" timestamp="1592015435253" />
     <state x="436" y="195" key="SettingsEditor" timestamp="1591855459495">
       <screen x="0" y="27" width="1920" height="1053" />
     </state>

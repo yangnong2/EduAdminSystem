@@ -1,5 +1,7 @@
 package site.xbk2000.eduadmin.entity.choice;
 
+import lombok.Data;
+import lombok.NoArgsConstructor;
 import org.springframework.stereotype.Component;
 
 /**
@@ -8,5 +10,18 @@ import org.springframework.stereotype.Component;
  *
  */
 @Component
+@Data
+@NoArgsConstructor
 public class Choices {
+
+    /**
+     * 学生id
+     * */
+    private int sid;
+
+
+    /**
+     * 课程id
+     * */
+    private int lid;
 }

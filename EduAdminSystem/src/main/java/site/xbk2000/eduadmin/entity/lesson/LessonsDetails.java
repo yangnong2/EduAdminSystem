@@ -1,5 +1,7 @@
 package site.xbk2000.eduadmin.entity.lesson;
 
+import lombok.Data;
+import lombok.NoArgsConstructor;
 import org.springframework.stereotype.Component;
 
 /**
@@ -7,5 +9,37 @@ import org.springframework.stereotype.Component;
  * @author xbk
  */
 @Component
+@Data
+@NoArgsConstructor
 public class LessonsDetails {
+
+    /**
+     * 课程id
+     * */
+    private int lid;
+
+    /**
+     * 第一节课时间
+     * */
+    private int first;
+
+    /**
+     * 第二节课时间
+     * */
+    private int second;
+
+    /**
+     * 第三节课时间
+     * */
+    private int third;
+
+    /**
+     * 第四节课时间
+     * */
+    private int fourth;
+
+    /**
+     * 第五节课时间
+     * */
+    private int fifth;
 }

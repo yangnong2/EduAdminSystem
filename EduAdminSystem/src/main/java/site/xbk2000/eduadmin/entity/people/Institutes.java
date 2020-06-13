@@ -1,5 +1,7 @@
 package site.xbk2000.eduadmin.entity.people;
 
+import lombok.Data;
+import lombok.NoArgsConstructor;
 import org.springframework.stereotype.Component;
 
 /**
@@ -7,5 +9,12 @@ import org.springframework.stereotype.Component;
  * @author xbk
  */
 @Component
+@Data
+@NoArgsConstructor
 public class Institutes {
+
+    /**
+     * 院系名称
+     * */
+    private String iname;
 }
