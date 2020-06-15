@@ -2,8 +2,7 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="eab43549-15d2-486b-86a8-70c4bcf3ece6" name="Default Changelist" comment="">
-      <change beforePath="$PROJECT_DIR$/../EduAdminSystem/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../EduAdminSystem/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../script.sql" beforeDir="false" afterPath="$PROJECT_DIR$/../script.sql" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/compiler.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/compiler.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -33,6 +32,7 @@
     <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
     <property name="WebServerToolWindowFactoryState" value="false" />
     <property name="aspect.path.notification.shown" value="true" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/../EduAdminSystem" />
     <property name="settings.editor.selected.configurable" value="MavenSettings" />
   </component>
   <component name="RunManager">
@@ -55,6 +55,7 @@
       <option name="presentableId" value="Default" />
       <updated>1592203335586</updated>
       <workItem from="1592203342496" duration="239000" />
+      <workItem from="1592203687830" duration="352000" />
     </task>
     <servers />
   </component>
@@ -62,6 +63,10 @@
     <option name="version" value="2" />
   </component>
   <component name="WindowStateProjectService">
+    <state x="743" y="311" width="424" height="483" key="FileChooserDialogImpl" timestamp="1592203728434">
+      <screen x="0" y="27" width="1920" height="1053" />
+    </state>
+    <state x="743" y="311" width="424" height="483" key="FileChooserDialogImpl/0.27.1920.1053@0.27.1920.1053" timestamp="1592203728434" />
     <state x="441" y="188" key="SettingsEditor" timestamp="1592203360139">
       <screen x="0" y="27" width="1920" height="1053" />
     </state>
