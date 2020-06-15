@@ -1,7 +1,10 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="8f619844-f638-49cd-999a-c24b90ac30ab" name="Default Changelist" comment="" />
+    <list default="true" id="8f619844-f638-49cd-999a-c24b90ac30ab" name="Default Changelist" comment="">
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../script.sql" beforeDir="false" afterPath="$PROJECT_DIR$/../script.sql" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -39,7 +42,7 @@
     <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
     <property name="WebServerToolWindowFactoryState" value="false" />
     <property name="aspect.path.notification.shown" value="true" />
-    <property name="last_opened_file_path" value="$PROJECT_DIR$/../../lzhpo-shiro" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
     <property name="settings.editor.selected.configurable" value="MavenSettings" />
   </component>
   <component name="RunManager">
@@ -71,6 +74,9 @@
       <workItem from="1592013768972" duration="1667000" />
       <workItem from="1592015791381" duration="1336000" />
       <workItem from="1592053110814" duration="22000" />
+      <workItem from="1592202451738" duration="166000" />
+      <workItem from="1592202657684" duration="121000" />
+      <workItem from="1592203212119" duration="127000" />
     </task>
     <servers />
   </component>
@@ -78,6 +84,10 @@
     <option name="version" value="2" />
   </component>
   <component name="WindowStateProjectService">
+    <state x="418" y="211" width="1282" height="758" key="#com.intellij.execution.impl.EditConfigurationsDialog" timestamp="1592202775194">
+      <screen x="0" y="27" width="1920" height="1053" />
+    </state>
+    <state x="418" y="211" width="1282" height="758" key="#com.intellij.execution.impl.EditConfigurationsDialog/0.27.1920.1053@0.27.1920.1053" timestamp="1592202775194" />
     <state x="743" y="311" width="424" height="483" key="FileChooserDialogImpl" timestamp="1592053130743">
       <screen x="0" y="27" width="1920" height="1053" />
     </state>
@@ -86,5 +96,9 @@
       <screen x="0" y="27" width="1920" height="1053" />
     </state>
     <state x="436" y="195" key="SettingsEditor/0.27.1920.1053@0.27.1920.1053" timestamp="1591855459495" />
+    <state x="229" y="230" width="1436" height="601" key="new project wizard" timestamp="1592203334813">
+      <screen x="0" y="27" width="1920" height="1053" />
+    </state>
+    <state x="229" y="230" width="1436" height="601" key="new project wizard/0.27.1920.1053@0.27.1920.1053" timestamp="1592203334813" />
   </component>
 </project>

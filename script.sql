@@ -16,6 +16,11 @@ create table roles
 	constraint roles_pk
 		primary key (id)
 );
+INSERT INTO `edu-admin`.roles (rname) VALUES ('管理员');
+INSERT INTO `edu-admin`.roles (rname) VALUES ('教师');
+INSERT INTO `edu-admin`.roles (rname) VALUES ('本科学生');
+INSERT INTO `edu-admin`.roles (rname) VALUES ('硕士研究生');
+INSERT INTO `edu-admin`.roles (rname) VALUES ('博士研究生');
 
 
 /*Table structure for table `institutes` */
