@@ -1,0 +1,4 @@
+spring:
+  datasource:
+    username: root
+    password: Conan.9.4.202.

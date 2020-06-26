@@ -1,5 +1,6 @@
 package site.xbk2000.eduadminsys.entity.people;
 
+import lombok.AllArgsConstructor;
 import lombok.Data;
 import lombok.NoArgsConstructor;
 import org.springframework.stereotype.Component;
@@ -13,6 +14,7 @@ import java.sql.Date;
 @Component
 @Data
 @NoArgsConstructor
+@AllArgsConstructor
 public class Users {
 
     /**
